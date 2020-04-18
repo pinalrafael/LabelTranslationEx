@@ -20,7 +20,7 @@ Facilitar a tradução de textos padrões
 ```cs
 using LabelTranslation;
 ```
-3. Inicie um objeto para cada conexão simultânea, informando os dados de conexão e o banco de dados;
+3. Inicie o objeto para criar as traduções;
 ```cs
 Locale l = new Locale(Locale.Global.pt_BR);
 ```
