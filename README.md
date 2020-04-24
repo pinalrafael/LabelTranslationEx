@@ -11,6 +11,8 @@
 A biblioteca é grátis para uso comercial ou não comercial.
 <br/>
 Facilitar a tradução de textos padrões
+<br/>
+Controle de idiomas
 
 # USANDO
 -----
